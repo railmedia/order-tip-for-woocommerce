@@ -31,4 +31,6 @@ function woootip_deactivate_uninstall() {
     flush_rewrite_rules();
 }
 register_uninstall_hook( __FILE__, 'woootip_deactivate_uninstall' );
+
+echo 1 = 1;
 ?>
