@@ -25,3 +25,4 @@
 * Added backward compatibility with 1.0.1 to display tips in the reports for the orders placed before v. 1.1
 * Added functionality for CSV exports of tip reports
 * Added version 1.1 for Dutch translations
+* Fixed dates not being updated when a search is performed on the Reports page and a custom date (From/To) is selected
